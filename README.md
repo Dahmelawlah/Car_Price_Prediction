@@ -8,4 +8,10 @@ The main factors affecting a used vehicle's price are mileage and conditions lik
 ## Project Overview
 In this project, i built a linear regression model that predicts the value of used Audi cars in the UK from Scratch. A linear regression model describes the relationship between a dependent variable, y, and one or more independent variables, X. The dependent variable is also called the response variable. Independent variables are also called explanatory or predictor variables. 
 
-For this project, i took variables like transmission, mileage, age of vehicle, the fuel type, the miles per gallon of vehicle as my predictor variables and the price as my response variable. I used a Linear regression model to describe the relationship between these predictor variables and the response variable
+For this project, i took variables like transmission, mileage, age of vehicle, the fuel type, the miles per gallon of vehicle as my predictor variables and the price as my response variable. I used a Linear regression model to describe the relationship between these predictor variables and the response variable. 
+
+I created my algorithm using Python and Pandas and linear regression model from scikit learn
+
+#### Project Steps
+
+  > Imported necessary libraries and read the data file
