@@ -14,4 +14,14 @@ I created my algorithm using Python and Pandas and linear regression model from 
 
 #### Project Steps
 
-  > Imported necessary libraries and read the data file
+  * Imported necessary libraries and read the data file
+  
+## Code
+
+You can find the code for this project [here](https://github.com/Dahmelawlah/Car_Price_Prediction/blob/main/Audi_Car_Price.ipynb).
+
+File Overview:
+
+## Data
+
+The data used for this project can be found [here](https://github.com/Dahmelawlah/Car_Price_Prediction/blob/main/audi.csv) 
